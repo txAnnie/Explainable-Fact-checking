@@ -1,0 +1,1949 @@
+[
+  {
+    "number": 1,
+    "claim": "Josh Hutcherson was in a lead role in television shows.",
+    "claim_chunks": [
+      "Josh Hutcherson",
+      "a lead role",
+      "television shows"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Actor. Years active, 2002\u2013present. In 2011, 18-year-old Hutcherson landed the leading role of Peeta Mellark in the top-grossing film series The Hunger Games\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "What's on TV & StreamingTop 250 TV ShowsMost Popular TV ShowsBrowse TV Shows by GenreTV News ... Josh his first Young Artist Award for \"Leading Young Actor\". 2006\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Oct 27, 2023 ... \"Future Man\" ... In the Hulu series \"Future Man,\" Hutcherson plays the role of Josh Futturman, a janitor who loves video games. After completing\u00a0...",
+        "correlation_label": "2"
+      },
+      {
+        "sentence": "Apr 23, 2012 ... ... actor Josh Hutcherson. Caswell has also played minor roles in several television shows, including \u201cThe Mentalist,\u201d \u201cI-Carly,\u201d \u201cCSI: NY\u201d and\u00a0...",
+        "correlation_label": "2"
+      },
+      {
+        "sentence": "... Hutcherson was widely praised for his work, which earned him two Young Artist Awards (Best Leading Actor and Best Ensemble). He then turned to darker fare\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "Josh Hutcherson. Actor: The Hunger Games. Joshua Ryan Hutcherson was born on October 12, 1992 in Union, Kentucky to Michelle Fightmaster, who worked for\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "On television, he starred in the Hulu comedy series Future Man from 2017 to 2020 and voiced the lead character in Ultraman (2019\u20132023). He has since starred in\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "... Hutcherson was widely praised for his work, which earned him two Young Artist Awards (Best Leading Actor and Best Ensemble). He then turned to darker fare\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "Oct 27, 2023 ... ... Josh Hutcherson's biggest movie and TV roles ... leading them to the center of Earth. During their journey, the two discover hidden secrets and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 23, 2012 ... ... actor Josh Hutcherson. Caswell has also played minor roles in several television shows, including \u201cThe Mentalist,\u201d \u201cI-Carly,\u201d \u201cCSI: NY\u201d and\u00a0...",
+        "correlation_label": "2"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "claim": "Lorelai Gilmore's father is named Robert.",
+    "claim_chunks": [
+      "Lorelai Gilmore's father",
+      "Robert"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Feb 25, 2023 ... At her debutante ball they present her as Lorelei Gilmore. Upvote 12 ... Uncle Jesse named one of his twins Nicholas after his (living) father\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Named after her paternal grandmother, Lorelai was raised in Hartford, Connecticut by her wealthy parents who wanted her to be a proper young lady of high\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... Lorelai Gilmore's father is named Robert.\", \"evidence\": [ [ [<annotation_id>, <evidence_id>, \"Lorelai_Gilmore\", 3] ] ] }. NotEnoughInfo Example. { \"id\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "... Lorelai's parents, who dislike Luke's blue collar status. Emily encourages Christopher, Rory's father, to pursue Lorelai and oust Luke. At Emily and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 8, 2021 ... Pine, meanwhile, revealed his father, actor Robert Pine, had secured ... Cast as Lorelai's waspy-but-loving parents Richard and Emily Gilmore\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Ted Danson, Marg Helgenberger, Paul Guilfoyle, Robert David Hall, George Eads, ... Alexis Bledel and Lauren Graham in Gilmore Girls (2000). Gilmore Girls. 8.2. TV\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Emily encourages Christopher, Rory's father, to pursue Lorelai and oust Luke. At Emily and Richard's vow-renewal, Luke, Christopher, and Lorelai discover Rory\u00a0...",
+        "correlation_label": "2"
+      },
+      {
+        "sentence": "Sep 18, 2021 ... I'm not sure why anyone would be surprised that Lorelai ended her relationship with Jason when he sued her father. I disagree that Lorelai didn'\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Besides an on-again, off-again relationship with Rory's father, Christopher Hayden, Lorelai had a few romantic relationships that included Max Medina, a teacher\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Sep 22, 2022 ... ... Lorelai Gilmore's father wasn't reporting trouble at school. The pregnancy was just the icing on the cake. I think he was guarded around her\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The dynamic of single parenthood and the tension between Lorelai and her wealthy parents , Richard ( Edward Herrmann ) and especially her controlling mother , Emily ( Kelly Bishop ) , form the main theme of the series story line .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "claim": "In 2010, the metropolitan area of Syracuse, New York, had a metropolitan population of more than 600,000.",
+    "claim_chunks": [
+      "the metropolitan area",
+      "Syracuse",
+      "a metropolitan population"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Syracuse Metro Area. 300,000. 303,300. 9,800. 13,100. 3.2%. 4.1%. Syracuse City. 56,200 ... Central New York's population is decreasing and has become more\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Even outside New York City, four regions (Niagara-Frontier, Finger Lakes, Hudson Valley, Long Island) had an aggregate Affordability Gap of more than $100\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "New York has more than double the population of Los Angeles, the nation's second-most populous city. New York is the geographical and demographic center of both\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 12, 2013 ... The reality facing cities in New York State is, however, more complicated. Although New York City's 2010 population of 8,175,133 was the highest.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Houston has a higher poverty rate than the average for the top 99 metropolitan ... The number of people under 20 in the 12 metro areas in the New York cluster\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "As of the 2020 census, the MSA had a population of 662,057, slightly down from 662,577 in the 2010 census. Syracuse metropolitan area. Metropolitan statistical\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Located in Central New York, the Syracuse metropolitan area is home to more than 650,000 people. ... Growth in the area has been sluggish for a number of decades,\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "653,633 Population [2022] \u2013 Estimate ; 6,177 km\u00b2 Area ; 105.8/km\u00b2 Population Density [2022] ; -0.57% Annual Population Change [2020 \u2192 2022].",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Census data for Syracuse, NY Metro Area (pop. 653633), including age, race, sex, income, poverty, marital status, education and more.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Syracuse Metro Area Population 1950-2024 \u00b7 The current metro area population of Syracuse in 2024 is 425,000, a 0.71% increase from 2023. \u00b7 The metro area\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "At the 2010 census , the city population was 145,170 , and its metropolitan area had a population of 662,577 .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "claim": "Sikkim is a part of the Andes.",
+    "claim_chunks": [
+      "Sikkim",
+      "a part",
+      "the Andes"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Apr 9, 2019 ... Dhakal says yacon cultivation in Sikkim began in 2013, after extensive research on more than 30 agricultural products in the Himalayan region. \u201c\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 14, 2021 ... Riding at 17000 feet above sea level is quite something (Himalayas, Sikkim) ... Part of India since 1975, but I found it much more similar to\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Dec 20, 2013 ... During my PhD I have focused on the Sikkim Himalaya, a small region of India located between Nepal and Bhutan. Until recently this area was\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jan 26, 2015 ... ... part of Sikkim with rough terrain. North Sikkim is a land of high passes, glaciers and remote snowbound terrain. Both Lachen and Lachung are\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jul 7, 2015 ... ... Sikkim (India), some ten years ago. As we drove higher, the region became cleaner. It was nice, for a change, not to see garbage all over\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Apr 9, 2019 ... In Sikkim, India's first fully organic state, farmers are growing yacon in large quantities, and putting it on India's wellness map, thanks to\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jan 14, 2021 ... Part of India since 1975, but I found it much more similar to Bhutan ... I have ridden the Andes in Peru and Ecuador with Chimborazo (Ecuador)\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "... parts of India such as Sikkim and Zanskar. The locations of preparation and sky burial are understood in the Vajrayana Buddhist traditions as charnel\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "May 23, 2008 ... ... Andes [3-6], the Alps [7-9], the ... Krishna A.P. Snow cover and glacier assessments in parts of the Sikkim Himalaya by remote sensing and GIS.",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jan 26, 2015 ... ... part of Sikkim with rough terrain. North Sikkim is a land of high passes, glaciers and remote snowbound terrain. Both Lachen and Lachung are\u00a0...",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "claim": "Babur was born on May 14, 1783.",
+    "claim_chunks": [
+      "Babur",
+      "May"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Having eliminated any threat to his Jagirs, he accompanied Behar Khan to Agra and arrived in April 1527, where he met Mughal emperor Babur. ... 14 September 2017.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The stepwise activation system may have evolved to accommodate finer regulatory mechanisms to control destructive enzymes, inasmuch as TIMPs may ... 14:12, (2976-\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Babar Azam was born on 15 October 1994 into a Punjabi Muslim family in the ... On 14 April 2021, Babar scored his maiden T20I century (122), in a winning\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Sep 30, 2017 ... ... 14 May 1911. Boone. Wolf. 0248. B2137. Adam, Erma Marguerite. 04 Sept. 1917 ... May 1916. Boone. Coleman. 0109. B2140. Harris, Arline Leone. 14\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... MAY ORT. I 30 8. 407,900. 260,900. 668,800. 14 BRAE BURN RD. TOYER MARK A & ERICA J ... 14 6. 329,900. 364,000. 693,900. 18 FAIRLAWN AV. TRACHTMAN MICHAEL / &\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "A feast for Babur hosted by his half-brother Jahangir Mirza in Ghazni in May 1505, from a Babur-nama (Memoirs of Babur). c. 1589; outer margins added c. mid\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "#Uzbekistan may be changing, but torture & political prisoners are sadly still features of the system. This conversation with @BaburYusupov on the detention\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Realtor. International investment expert. Fiction Writer. \u00b7 Photo by Babur Shaikh on December 28, 2023. May be an image of 8 \u00b7 Minerya Towers, Mahalaxmi, one of\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Delivery in 7 to 10 business days. All orders shipped outside of Morocco might be subject to customs duties and taxes upon receipt. Returns are eligible for\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... Followers, 872 Following, 1509 Posts - See Instagram photos and videos from Sushma Punjabi Babur ( ... Photo by Sushma Punjabi Babur on January 28, 2024. May be\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Babur ( [ \u0628\u0627\u0628\u0631 , lit = Tiger , translit = B\u0101bur ] 14 February 148326 December 1530 ) , born \u1e92ah\u012br-ud-D\u012bn Mu\u1e25ammad ( [ \u0638\u0647\u06cc\u0631\u0627\u0644\u062f\u06cc\u0646 \u0645\u062d\u0645\u062f , translit = \u1e92ah\u012br ad-D\u012bn Mu\u1e25ammad ] ) , was a conqueror from Central Asia who , following a series of setbacks , finally succeeded in laying the basis for the Mughal dynasty in the Indian subcontinent and became the first Mughal emperor .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "claim": "Jos\u00e9 Ferrer played a character.",
+    "claim_chunks": [
+      "Jos\u00e9 Ferrer",
+      "a character"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Jos\u00e9 Ferrer was a Puerto Rican actor and film director. He won an Academy Award for Best Actor for playing the title character in Cyrano de Bergerac (1950).",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Jos\u00e9 Vicente Ferrer de Otero y Cintr\u00f3n (January 8, 1912 \u2013 January 26, 1992) was a Puerto Rican actor and director of stage, film and television.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Jan 22, 2017 ... ... actor. miguel-ferrer. Ferrer was often cast as villainous or quirky characters. He was seldom seen in starring roles, but he worked regularly\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Miguel Jos\u00e9 Ferrer (February 7, 1955 \u2013 January 19, 2017) was an American actor. His breakthrough role was as Bob Morton in the 1987 film RoboCop.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "However, it must be objected that there is a great deal of hot air in the play which is not in the least extracted or tempered by the character of this film.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The production became one of the hits of the 1946/47 Broadway season, winning Ferrer the first Best Actor Tony Award for his depiction of the long-nosed poet/\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Jos\u00e9 Ferrer (1912\u20131992) became the first Puerto Rican actor to win the Best Actor Academy Award for the 1950 film version of Cyrano de Bergerac.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Jan 27, 1992 ... A family spokesman gave his age as 80, although some reference works said he was 83. He was a resident of Miami. His family said he died after a\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "In 1947 , Ferrer won the Tony Award for his theatrical performance of Cyrano de Bergerac , and in 1952 , he won the Distinguished Dramatic Actor Award for The Shrike , and also the Outstanding Director Award for directing the plays The Shrike , The Fourposter , and Stalag 17 .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "claim": "The Originals (TV series) stars an American.",
+    "claim_chunks": [
+      "The Originals",
+      "TV series",
+      "an American"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "The Originals is an American fantasy supernatural drama television series that began airing on The CW on October 3, 2013. It is a spin-off of The Vampire\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "4.3 4.3 out of 5 stars 20 Reviews. The Originals, an American Television Series, Niklaus Klaus Mikaelson, Elijah Mikaelson, Rebekah Mikaelson 12 X 18 inch\u00a0...",
+        "correlation_label": "2"
+      },
+      {
+        "sentence": "Star Trek is an American science fiction television series created by Gene Roddenberry that follows the adventures of the starship USS Enterprise (NCC-1701) and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 28, 2023 ... Although Joseph Morgan, Daniel Gillies, Claire Holt and more cast members from The Originals have moved on from the CW drama, the feeling of\u00a0...",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "The Originals is an American fantasy-drama television series picked up by The CW television network for their fall 2013 schedule, after a backdoor pilot for\u00a0...",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "The Originals is an American fantasy supernatural drama television series that began airing on The CW on October 3, 2013. It is a spin-off of The Vampire\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Amazon.com: MOTIVATION4U The Originals, an American Television Series, Niklaus Klaus Mikaelson, Elijah Mikaelson, Rebekah Mikaelson 12 X 18 inch Poster:\u00a0...",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "Hulu Originals ; 'Til Death Do Us Part Kourtney & TravisTV14 \u2022 Reality \u2022 TV Series (2023) ; 11.22.63TVMA \u2022 Drama, Science Fiction \u2022 TV Series (2016) ; The 1619\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "We also offer in other smaller or larger sizes, visit our store or contact us for details.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "American Originals: With Jeb Bush, Al Black, Jean Ellen Wilson, Henry Bosma. A group of self-taught Black artists outsmarted the restrictions of the Jim\u00a0...",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "claim": "Duff McKagan is Texan.",
+    "claim_chunks": [
+      "Duff McKagan"
+    ],
+    "claim_label": "NOT ENOUGH INFO",
+    "evidence": [
+      {
+        "sentence": "Oct 6, 2023 ... Guns N' Roses bassist Duff McKagan visits Alamo, joining rocker tradition. By Annasofia ScheveUpdated Oct 6, 2023 1:08 p.m..",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jun 23, 2018 ... His heart was as big as Texas! He was the real deal, genuine.....always had a great time with Vinnie!!! He will be missed!!! No photo\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 20, 2012 ... Axl Rose (vocals), Izzy Stradlin (rhythm guitarist), Slash (lead guitarist), Duff McKagan (bass) and Steven Adler (drums). Quotes: We just\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mar 18, 2019 ... This article is more than 4 years old. AUSTIN, TEXAS\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 22, 2022 ... 1, 2022). Guns N' Roses is an 80's hard rock band featuring members Axl Rose, \u201cSlash\u201d (Saul Hudson), Michael \u201cDuff\u201d McKagan,\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "a soul trying with all its might to find peace and a center. Find a lighthouse. I have my lighthouse\u2026.its beacon swirling in the\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Duff McKagan ... Michael Andrew \"Duff\" McKagan (born February 5, 1964) is an American musician. He was the bassist of hard rock band Guns\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Duff McKagan. 523428 likes \u00b7 7208 talking about this. https://duffonline.com.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "1M Followers, 358 Following, 1449 Posts - See Instagram photos and videos from Duff McKagan (@duffmckagan)",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Guns N' Roses, NY Times Bestselling Author. SirusXM weekly radio show Three Chords & The Truth ch.38.",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "claim": "The Cry of the Owl is based on a book by a Hungarian novelist.",
+    "claim_chunks": [
+      "The Cry",
+      "the Owl",
+      "a book",
+      "a Hungarian novelist"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "The Hungarian Marxist literary critic Georg Lukacs ... You might try thinking about it this way: what irritates Nichols most about this \"book\" is not the book\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "He edired both The Penguin Book of Ghost stories and The penguin Book of. Horror stories in 1984, and James Hogg's The private Memoirs and confessions of a\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The deep sea was once thought to be devoid of life. In fact, it is our planet's larg- est ecosystem, and it's teem- ing with life. This excerpt.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Susan Walker not only added many of the quotations, but did much of the original research in finding quotations from news stories and scientific abstracts alike\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "All crossword clues in our system starting with the letter P.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 17, 2022 ... It was adapted from \u201cBambi: A Life in the Woods,\u201d a 1922 novel by the Austro-Hungarian writer and critic Felix Salten. The book rendered\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Cry of the Owl by Patricia Highsmith. A novel powered by Highsmith's ... Nevertheless, I'm limiting myself to one book per author to highlight a range of\u00a0...",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "Having a flame, burning and steady in front of me is a reminder that I've taken the step, and it's writing time. Why did you write a book about an owl called\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Aug 24, 2011 ... That conclusion surprised me as I considered the two Highsmith books I read primarily as psychological novels. I'm not talking about the slasher\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "outstanding writers, the 'classical' writers of Hungarian literature; he ... Owls is The Book of Courting considering their genre. The title. (The Book of\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Cry of the Owl is a 2009 thriller film based on Patricia Highsmith 's book of the same name .",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "Patricia Highsmith ( January 19 , 1921 -- February 4 , 1995 ) was an American novelist and short story writer , known for her psychological thrillers , which led to more than two dozen film adaptations .",
+        "correlation_label": "3"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "claim": "Aunt May is a character that made zero appearance in comics.",
+    "claim_chunks": [
+      "Aunt May",
+      "a character",
+      "that",
+      "zero appearance",
+      "comics"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "!'\" The villain then made his first full-issue appearance in The Amazing Spider-Man #300 (May 1988).",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jul 21, 2023 ... She looks like an 45 yo ugly aunt and Peter an 16 yo chad. Bizarre ... Their excuse didn't make sense and given how Peter now looks far more\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The many versions of Spider-themed characters as seen in the Spider-Geddon storyline. Art by Nick Bradshaw. Publisher \u00b7 Marvel Comics \u00b7 First appearance\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Sep 12, 2021 ... Characters: Aunt May, Neighbors (Anna Watson, Mary Jane Watson ... Aunt May, Betty Brant all make appearances. Beyond the cast-list it\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Zero's only other \"appearance\" is in a Civil War handbook. Another thread in the ... Characters Appearing: Aunt May, Brainstorm, Captain Zero, Doctor Hope, J.",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "... Aunt May in a deal with Mephisto. 1st full appearance of Patient Zero, formerly Weasel ... character that he created that went on sale exclusively in his webstore\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "May 9, 2016 ... Sure, maybe this May isn't the same character as the ones from the comics, but you know what? I'm cool with that. Just like with Hank Pym\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Sep 12, 2021 ... ... Aunt May, Betty Brant all make appearances. Beyond the cast-list it wouldn't tell us anything. But if I say, that in this issue [x] character\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Venom is a character appearing in American comic books published by Marvel Comics. The character is a sentient alien symbiote with an amorphous, liquid-like\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May Parker , commonly known as Aunt May is a fictional character appearing in American comic books published by Marvel Comics , commonly in association with the superhero Spider-man .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Created by writer Stan Lee and artist Steve Ditko , the character made her first appearance in Amazing Fantasy # 15 ( August 1962 ) .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "claim": "Goosebumps (film) was directed by Tim Burton.",
+    "claim_chunks": [
+      "Goosebumps",
+      "film",
+      "Tim Burton"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "has anyone ever considered doing a fan edit of batman begins so it does'nt contradict the first batman movie by tim burton. Batman's Parents\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 4, 2015 ... I heard something about Tim Burton wanting to direct a Goosebumps movie aaaages ago, but nothing happened with it :c",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Oct 23, 2019 ... It is a classic with Johnny Depp and directed by Tim Burton. It's heart breaking but was and still is my favorite movie. Also check out\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Oct 30, 2017 ... The child of iconic directors Tim Burton and Henry Selick which technically counts as a Disney movie. The rare horror film which is both an\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "A stranger-than-fiction true story of the early career of Edward D. Wood, Jr., the undisputed \"worst movie director of all time,\" Tim Burton's ED WOOD is\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "In the 1990s, Tim Burton was attached to produce a Goosebumps film that was going to be made by 20th Century Fox & DreamWorks.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Dec 13, 2018 ... R.L. Stine Reflects On the 'Goosebumps' Movie That Tim Burton Almost Produced in the '90s ... Beginning in 1995, R.L. Stine's mega popular\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "In 1998, Tim Burton was attached to direct a Goosebumps film for 20th Century Fox. Chris Meledandri, the president of Fox Family Films at the time, said, \"I\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Dec 15, 2018 ... Goosebumps author R. L. Stine has revealed that there were plans for Tim Burton to produce a Goosebumps film at some point in the 1990s.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Dec 14, 2018 ... There's no secret that R.L. Stine and Tim Burton were responsible for some of our greatest nightmares as kids, and it appears that the duo\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "It was directed by Rob Letterman , and written by Darren Lemke , based from a story by Scott Alexander and Larry Karaszewski .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "claim": "In a Lonely Place was based on a novel.",
+    "claim_chunks": [
+      "a Lonely Place",
+      "a novel"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "In a Lonely Place (novel) ... In a Lonely Place is a 1947 novel by mystery writer Dorothy B. Hughes. Nicholas Ray directed a classic film noir under the same\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Aug 15, 2017 ... Written with controlled elegance, Dorothy B. Hughes's tense novel is at once an early indictment of a truly toxic masculinity and a twisty page-\u00a0...",
+        "correlation_label": "2"
+      },
+      {
+        "sentence": "It's based on a novel of the same name by Dorothy B Hughes, which was published in 1947. Hughes was one the great American crime writers, and In A Lonely Place\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Directed by, Nicholas Ray ; Screenplay by. Andrew P. Solt \u00b7 Edmund H. North (adaptation) ; Based on, In a Lonely Place 1947 novel by Dorothy B. Hughes ; Produced\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Sep 6, 2016 ... ... novel on which the film is loosely based. I'd heard that Ray's version of the story was very different to Dorothy B. Hughes' book (also\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "In a Lonely Place is the tale of a psychotic WWII veteran turned killer who preys on lonely women at night. It's told from his perspective, albeit in third\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Aug 15, 2017 ... Los Angeles in the late 1940s is a city of promise and prosperity, but not for former fighter pilot Dix Steele. To his mind nothing has come\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The basis for extraordinary performances by Humphrey Bogart and Gloria Grahame in the 1950 film version of the book, In a Lonely Place tightens the suspense\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Sep 6, 2016 ... From the beginning of the book, it's crystal clear that Dix is a very troubled man; he's damaged, depressed and desperately lonely. As the novel\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The script was adapted by Edmund North from the 1947 novel of the same name by Dorothy B. Hughes .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "claim": "Elizabeth of York was murdered.",
+    "claim_chunks": [
+      "Elizabeth",
+      "York"
+    ],
+    "claim_label": "NOT ENOUGH INFO",
+    "evidence": [
+      {
+        "sentence": "Jul 1, 2021 ... And king he was\u2026until 1485 and the Battle of Bosworth, where he was killed by Henry VII, who then became king. \u00b7 No, Henry was too busy fighting\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Elizabeth of York (11 February 1466 \u2013 11 February 1503) was the Queen of England from her marriage to King Henry VII on 18 January 1486 until her death in\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Oct 30, 2021 ... Elizabeth of York married Henry 7 and he was instrumental in the death of her UNCLE, Richard 3. Richard was the regent of her brother and he was\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The disappearance of the 'Princes in the Tower', Edward V and his brother Richard, Duke of York in 1483 is one of the most intriguing 'murders' of the Tower\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The deposed King Henry died that night, probably murdered. With both Henry and his son removed, the York dynasty seemed secure, and Elizabeth's new baby brother\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "She was the daughter of King Edward IV and his wife, Elizabeth Woodville, and her marriage to Henry VII followed his victory at the Battle of Bosworth Field,\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Henry VII's coronation took place in October 1485. He and his wife Elizabeth were the first monarchs to be buried in the Abbey's Lady Chapel.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Elizabeth York is the Electronic Resources Librarian at Rutgers University Libraries. She manages activation, configuration, and ongoing maintenance of all\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 8, 2022 ... The wife of King Henry VII deserves a lot more credit for her political accomplishments than historians have been prepared to give her,\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "At ELISABETH YORK, we offer the effortless elegance that comes from layering textures and patterns with an unexpected mix of details.",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "claim": "The Hunger Games is a book.",
+    "claim_chunks": [
+      "The Hunger Games",
+      "a book"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "The Hunger Games is an adult novel written for and starring children. The genre is an eclectic mixed bag, a potpourri of the best in futuristic, post-\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The first three novels are part of a trilogy following teenage protagonist Katniss Everdeen, and the fourth book is a prequel set 64 years before the original.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Feb 17, 2023 ... There hasn't been any official announcement regarding another book in the Hunger Games series after \"The Ballad of Songbirds and Snakes.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Well, that's the story of Gregor the Overlander, the first book in her five-part series, The Underland Chronicles. Suzanne also has a rhyming picture book\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Nov 16, 2023 ... Obviously not a confirmation but she seems very hopeful Suzanne could be writing a new book. If another Hunger Games book does happen, what\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The Hunger Games is a series of young adult dystopian novels written by American author Suzanne Collins. The first three novels are part of a trilogy\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The Hunger Games Boxed Set ... The Hunger Games ranks as one of the most popular fantasy series of all time, and here you have all four books collected into one\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The Hunger Games (novel) ... The Hunger Games is a 2008 dystopian young adult novel by the American writer Suzanne Collins. It is written in the perspective of 16\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The Hunger Games is a 2008 dystopian novel by the American writer Suzanne Collins .",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The book received mostly positive responses from major reviewers and authors .",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The Hunger Games was first published in hardcover on September 14 , 2008 , by Scholastic , featuring a cover designed by Tim O'Brien .",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "It has since been released in paperback and also as an audiobook and ebook .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "claim": "The Premier League Asia Trophy is held biennially in a grave.",
+    "claim_chunks": [
+      "The Premier League Asia Trophy",
+      "a grave"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "The bi-annual football tournament will take place in two locations for the first time, giving more fans the opportunity to enjoy the\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "Sep 6, 2021 ... Can you imagine a major international tournament held every year? The idea is closer to becoming a reality thanks\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Sep 4, 2021 ... ... football development Ars\u00e8ne Wenger is a believer in a biennial World Cup \u00a9Getty Images ... Premier League players\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "A multi-sport event is an organized sporting event, often held over multiple days, featuring competition in many different sports\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Sep 8, 2021 ... \u010ceferin this week reignited his war of words with FIFA President Gianni Infantino over the proposal to stage biennial\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "2023 International - Women's East Asia Cup. japan premier league. Japan Premier League \u00b7 Womens Japan Premier League ... Koji Hardgrave-Abe Verified. CC Player ID\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "20-21 Premier League Official Grave Accent Symbol - Black. Product Code: 2022FAPLBLKGRACC. $1.50.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 7, 2024 ... Fans, players and coaches have paid their last respects in Brazil to Mario Zagallo. The first person to win the World Cup both as a player\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 8, 2006 ... It has never, for example, been visited by a Heisman Trophy winner, cemetery officials said. ... Premier League \u00b7 NCAAF \u00b7 NCAAM \u00b7 NHL \u00b7 NCAAW\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Feb 20, 2023 ... The remains of Ghanaian football star Christian Atsu arrived home Sunday following his death ... Premier League footballer touched down at the\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Premier League Asia Trophy ( formerly the FA Premier League Asia Cup ) is a pre-season association football friendly tournament held biennial in Asia .",
+        "correlation_label": "7"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "claim": "Michael B. Jordan is Spanish.",
+    "claim_chunks": [
+      "Michael B. Jordan"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "... B. Pearce Michael B. McNally Donna Kirk Jako Olivier J.H. Verkerke J.H. Verkerke J.H. Verkerke Chauna Ramsey Orlando R. Kelm Laurie A. Massery Martine\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "A 2018 study of tissue slides and medical reports led by evolutionary biology professor Michael ... ^ Jump up to: Jordan, E. O. (1927). Epidemic Influenza: A\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mar 27, 2023 ... CRITSER, JORDAN. L. 10440675. CCN: 1766769. OUT. RESIDENTIAL. BURGLARY ... MICHAEL A. 10604327. CCN: 1936435. IN. BURGLARY 2ND. DEGREE. EHLERS,\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... Michael, Bazemore, Instructor-History, General Education and Interdisciplinary ... B, 919-546-8412, lcornwal@SHAWU.EDU. Kahlil, Covington, FT Security Officer\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "11977330. CCN: OUT Spanis h. RAPE OF A CHILD-. 2. OLSON, ROBIN. V. POSNOCK ... MICHAEL T. 11975331. CCN: OUT. DEAL DEPICT. MINOR SEX. CNDCT 1ST DEG. HARMON,.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "24M Followers, 975 Following, 55 Posts - See Instagram photos and videos from Michael B. Jordan (@michaelbjordan)",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Michael B. Jordan. Actor: Black Panther. Michael B. Jordan, the middle of three children, was born in Santa Ana, California and raised in Newark,\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "No photo description available.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Michael Bakari Jordan was born on February 9, 1987, in Santa Ana, California, to Donna and Michael A. Jordan. He has an older sister and a younger brother.",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "welcome to the squad @Drake @michaelb4jordan https://boardroom.tv/brooklyn-aces-pickleball-drake-michael-b-jordan/\u2026",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "claim": "Five closely spaced stations was originally served by the Tremont Street Subway.",
+    "claim_chunks": [
+      "Five closely spaced stations",
+      "the Tremont Street Subway"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "The tunnel originally served five closely spaced stations: Boylston, Park Street, Scollay Square, Adams Square, and Haymarket, with branches to the Public\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Sep 30, 2020 ... ... originally located just south of Boylston St, a branch off the old Tremont Street line ... believe, and served five closely spaced stations:",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Aug 14, 2012 ... First, the obvious: \u2013 Intervale Ave (2/5), too close to Prospect Ave and Simpson St. \u2013 Zerega Ave (6), too close to Castle Hill Ave and E.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "... first station in the original Tremont Street Subway along with Park Street Station. ... At least the gaps were closely spaced. Since they were all built before\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Yes \u2013 despite being opened less than 5 years before as a streetcar subway, the Tremont St Subway was semi-temporarily converted to third-rail and high-level\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The tunnel originally served five closely spaced stations: Boylston, Park Street ... subway tunnel extending west of Boylston station towards Kenmore Square\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Sep 30, 2020 ... The Tremont Street subway is the oldest subway tunnel in North America ... believe, and served five closely spaced stations: Boylston, Park\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Aug 14, 2012 ... \u2013 Intervale Ave (2/5), too close to Prospect Ave and Simpson St. \u2013 Zerega Ave (6), too close to Castle Hill Ave and E. Tremont Ave (though\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Feb 21, 2023 ... ... transit priority street designs, adjusted closely distanced bus ... Tremont Avenue and adjustments to closely spaced bus stops. Bx40 and\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "In 1897, Boston's. Tremont Street Subway, which is now part of the MBTA's Green ... half mile (although stations are often spaced more closely within downtown\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The tunnel originally served five closely spaced stations : Boylston , Park Street , Scollay Square , Adams Square , and Haymarket , with branches to the Public Garden Portal and Pleasant Street Incline south of Boylston .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "claim": "Vincent D'Onofrio is an Emmy Award salesman.",
+    "claim_chunks": [
+      "Vincent D'Onofrio",
+      "an Emmy Award salesman"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Dec 12, 2023 ... It was the fall of 2014, just weeks after the 66th Primetime Emmy Awards. With two earlier wins already to his credit, Braugher had been\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Most recently, she was executive music producer for the Academy Award nominated documentary, RBG. Greenberg is an adjunct professor at the MEIM graduate program\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 12, 2023 ... The two-time Emmy winner was great as the masterful interrogator Det. ... Vincent D'onofrio. THR Newsletters. Sign up for THR news straight to\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Vincent D'Onofrio \u00b7 Homicide: Life on the Street, John Lange, \"Subway\", NBC \u00b7 Charles Durning, Thomas Finnegan, \"Finnegan's Wake\". Charles Nelson Reilly\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... Academy Award for their efforts - something that angered the director to no end. ... Vincent and Theo\" (1990). The film focused on the obsessive and erratic\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Vincent D'Onofrio is known as an actor's actor. In fact, upon accepting her Academy Award for Best Supporting Actress for Cold Mountain, Renee Zell...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The film is based on Hasford's 1979 novel The Short-Timers and stars Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, and Adam Baldwin. Full Metal Jacket.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Directed by British Academy Award winning filmmaker, Wayne Derrick and narrated by Emmy Award ... To report an issue with this product or seller, click here.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Save seller. Joined Nov 2015. Seller's other items \u00b7 Contact seller. Detailed seller ratings ... Two Emmy Award Consideration ads that are 11 by 14 inches in size\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 12, 2023 ... ... (Vincent D'Onofrio) pinned between a Baltimore subway train and the ... He got two Emmy noms for that, and four for Brooklyn Nine-Nine. The\u00a0...",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "claim": "Diwali is a festival.",
+    "claim_chunks": [
+      "Diwali",
+      "a festival"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Learn about India's biggest holiday of the year.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "This is the day when Hindu, Jain and Sikh temples and homes are aglow with lights, thereby making it the \"festival of lights\". The word Deepawali comes from the\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Oct 16, 2023 ... SAN ANTONIO (October 16, 2023) \u2013 The sights, sounds, flavor and traditions of India will illuminate Hemisfair and Arneson River Theatre at the\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The 8th annual Round Rock Diwali Festival will take place October 28. 2023 in Downtown Round Rock.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Each year Hum Sub Diwali includes music, dance, theater performances, a handicraft bazaar, Indian food vendors, sponsor booths, an exhibition of Indian art and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Diwali is usually celebrated twenty days after the Vijayadashami festival, with Dhanteras, or the regional equivalent, marking the first day of the festival\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Nov 10, 2023 ... In southern India, Diwali celebrates the victory of Lord Krishna's destruction of the demon Naraka who is said to have imprisoned women and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 22, 2023 ... Diwali (Divali) is a major Hindu religious festival that lasts for five days during the lunar months of Ashvina and Karttika\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Nov 10, 2023 ... Diwali is India's biggest and most significant holiday, also known as the \"Festival of Lights.\" It is largely celebrated by Hindus and its\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Diwali or Deepavali is the Hindu festival of lights celebrated every year in autumn in the northern hemisphere ( spring in southern hemisphere ) .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "claim": "Tom Baker has reviewed video games.",
+    "claim_chunks": [
+      "Tom Baker",
+      "video games"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Thomas Stewart Baker (born 20 January 1934) is an English actor and writer. He played the fourth incarnation of the Doctor in the science fiction television\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... video game Destiny of the Doctors. Baker has also provided voice acting and narration for several other video games including Warhammer 40,000: Fire Warrior\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Feb 10, 2022 ... ... Review. Reviews \u00b7 Video Games \u00b7 Video Game Reviews. Should You Play About ... This is Tom from UDS, and welcome to our review of About An Elf, a\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Tom Baker. Actor: Nicholas and Alexandra. One of Britain's most recognizable (and most larger-than-life) character actors, Tom Baker is best known for his\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Reviewed in the United Kingdom on September 4, 2016. I really liked this ... Help others learn more about this product by uploading a video! Upload your video.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Credited on 13 games ; Heretic Kingdoms: The Inquisition (2004, Windows), Narrators ; Warhammer 40,000: Fire Warrior (2003, PlayStation 2), Narrator ; Hostile\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Baker starred as the Fourth Doctor in the 1997 video game Destiny of the Doctors where he provided the voice. His voice has also been featured in Ecco the\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Mar 16, 2022 ... In this final part, I talk about one of the most fun parts of the production of this game: working with voice actor Tom Baker. Who to Voice\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Troy Baker (born April 1, 1976) is an American voice actor and musician. Baker is known for his numerous roles in video games, including Joel Miller in The\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Tom Baker ... Tom Baker as the eponymous Doctor with a SIG P210 in the Doctor Who serial The Seeds of Doom. Tom Baker can be\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "In addition to performing acting roles , Baker has narrated commercials , video games , audiobooks and television series .",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "claim": "David Lloyd George was a prime minister.",
+    "claim_chunks": [
+      "David Lloyd George",
+      "a prime minister"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "David Lloyd George, 1st Earl Lloyd-George of Dwyfor, OM, KStJ, PC (17 January 1863 \u2013 26 March 1945) was Prime Minister of the United Kingdom from 1916 to\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "He was the first and only Welshman to hold the office of Prime Minister. Lloyd George, although born in Manchester, grew up in Caernarvonshire under the care of\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Jan 13, 2024 ... David Lloyd George British prime minister (1916\u201322) who dominated the British political scene in the latter part of World War I. He was\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Lloyd George was re-elected as Prime Minister in December 1918 and played a prominent role in the Versailles Peace Settlement. He left office in October 1922\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "David Lloyd George became British Prime Minister in December 1916. His leadership during World War One won him the title 'The man who won the war'",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "His most important role came as the highly energetic Prime Minister of the Wartime Coalition Government ( 1916 -- 22 ) , during and immediately after the First World War .",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "As Prime Minister , Lloyd George favoured the Conservatives in his coalition in the 1918 elections , leaving the Liberal Party a minority .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "claim": "The Eighth Doctor has only ever aired on FX.",
+    "claim_chunks": [
+      "The Eighth Doctor",
+      "FX"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Nov 19, 2022 ... Peter Capaldi is only 18 months older than Paul McGann. In 1989 he had plenty of youthful charm, as well as a simply magnificent head of hair\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jul 16, 2017 ... Okay, so, the only thing I know about this book is that I've got one friend who really likes it. And it's by Lloyd Rose, aka the writer of\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Feb 24, 2019 ... ... is lower than all but two other episodes ever broadcast since the show's return. Among the hardcore fanbase, there seems to be a consensus\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jun 25, 2015 ... This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies. Notice\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Oct 15, 2018 ... Only seen Doctor Who once, what do they mean by, \u201cregenerating\u201d for the Doctor? Oh, boy. This answer could be short\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Amazon.com: Doctor Who 8th Doctor Sonic Screwdriver with Sound FX : Toys & Games.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jul 31, 2013 ... ... FX being unavailable in many areas, such as New York. At the same time, Cartmel proposed to BBC and Fox a Doctor Who film, which came to be\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Doctor Who 8th Doctor Sonic Screwdriver with Sound FX \u00b7 4.64.6 out of 5 stars. (201) ; Doctor Who: The Eighth Doctor: A Matter of Life and Death. by George Mann.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Product details. The Sonic Screwdriver is a versatile tool used by the Doctor for opening up hatches, panels and controls. This replica of the 8th Doctor's\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "This is The Eighth Doctor's sonic screwdriver with realistic sound FX. Requires 3 x L1154 batteries (included). General Safety Warning: Products sold by\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Eighth Doctor is an incarnation of the Doctor , the protagonist of the BBC science fiction television series Doctor Who .",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The BBC is the world 's oldest national broadcasting organisation and the largest broadcaster in the world by number of employees .",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "claim": "Mike Friedrich is only German.",
+    "claim_chunks": [
+      "Mike Friedrich"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Michael Friedrich. @dnsmichi. AI and CI adoption content | @ mention me for tasks, I use To-Dos only ... \"Michi\" is the lovely version of \"Michael\" in German.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Nuremberg area, Germany dnsmichi.at Born 1983 Joined March 2010 ... As part of #ProjectJengo we took this one all the way to trial and not only prevailed for\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "Johann Michael Friedrich R\u00fcckert (16 May 1788 \u2013 31 January 1866) was a German poet, translator, and professor of Oriental languages.",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "After the war my father rebuilt but sold the farm and built again a house and farm in Friedrichwilhelmsthal near Golnow, and so I learned to be a farmer like my\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... only ops troubleshooting since then. Ok ... let's see. I am located near ... This week we welcomed 3 new guests into our lovely German coffee chat: Michael\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mike Friedrich ... Mike Friedrich (/\u02c8fri\u02d0dr\u026ak/; born March 27, 1949) is an American comic book writer and publisher best known for his work at Marvel and DC\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Marvel.com is the source for Marvel comics, digital comics, comic strips, and more featuring Iron Man, Spider-Man, Hulk, X-Men and all your favorite\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "A media professional with 15+ years experience; background in television news management and production, and most recently, building a business with clients\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Aug 18, 2023 ... Maybe more broadly the whole arc of comic creator rights, and the Direct Market role in it and your role in it. It's another job that I stepped\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "736 Followers, 615 Following, 521 Posts - See Instagram photos and videos from Mike Friedrich (@friedrich_mike)",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mike Friedrich ( born March 27 , 1949 ) is an American comic book writer and publisher best known for his work at Marvel and DC Comics , and for publishing the anthology series Star * Reach , one of the first independent comics .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "claim": "A song is on Overexposed.",
+    "claim_chunks": [
+      "A song",
+      "Overexposed"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Mar 31, 2014 ... Overexposure not only kills a song, overexposure over decades kills a culture. I was born in the year of Sgt. Pepper. When I was 20\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Nov 11, 2017 ... Close your eyes. Pay attention to the little notes in it. \u00b7 If you're listening to it live, great. Listen for all the voices of the people or\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "May 15, 2021 ... By definition, popularity MEANS you'll be overexposed. You need to be in order to become a certain level of popular, to reach \"superstardom\".",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Sep 16, 2023 ... (Good) Songs We Never Need To Hear Again Due To Overexposure \u00b7 1) Billy Joel - Piano Man (The second I hear that harmonica, I'm out.) \u00b7 2)\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The song was received generally positive reviews from critics, they noted departure from older Maroon 5 songs. However, some them were praised of the music\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jun 20, 2012 ... Overexposed Tracklist \u00b7 One More Night Lyrics \u00b7 Payphone (Ft. Wiz Khalifa) Lyrics \u00b7 Daylight Lyrics \u00b7 Lucky Strike Lyrics \u00b7 The Man Who Never\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Overexposed is the fourth studio album by American pop band Maroon 5. It was released on June 20, 2012, by A&M Octone Records. The album was recorded\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Overexposed is the fourth studio album by the American band Maroon 5 , released on June 20 , 2012 , by A&M Octone Records .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "claim": "Gory Guerrero was a professional wrestler in Mexico.",
+    "claim_chunks": [
+      "Gory Guerrero",
+      "a professional wrestler",
+      "Mexico"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Salvador Guerrero Quesada (January 11, 1921 \u2013 April 18, 1990), better known as Gory Guerrero, was one of the premier Mexican-American professional wrestlers\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Salvador Guerrero Quesada (January 11, 1921 \u2013 April 18, 1990), better known as Gory Guerrero, was a Mexican-American professional wrestler.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Eduardo Gory Guerrero Llanes (October 9, 1967 \u2013 November 13, 2005) was a Mexican-American professional wrestler. He was best known for his tenures in World\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Nov 15, 2005 ... An autopsy is planned. Eduardo Gory Guerrero was featured on the UPN series \"WWE Smackdown!\" He was the son of the Mexican wrestler Gory\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Over the next few years, he would make important friends, learn more about the tricks of the trade and amateur wrestling. He made his debut for the Mexico City\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Salvador Guerrero Quesada (January 11, 1921 \u2013 April 18, 1990), better known as Gory Guerrero, was one of the premier Mexican-American professional wrestlers\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Salvador \"Gory\" Guerrero Quesada (January 11, 1921 \u2013 April 18, 1990) was one of the premier Hispanic wrestlers in the early days of Lucha libre when most\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Eduardo Gory Guerrero Llanes (October 9, 1967 \u2013 November 13, 2005) was a Mexican-American professional wrestler. He was best known for his tenures in World\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Salvador Guerrero Quesada (January 11, 1921 \u2013 April 18, 1990), better known as Gory Guerrero, was a Mexican-American professional wrestler.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "May 17, 2021 ... Gory Guerrero died in 1990 at the age of 69. Already a member of the hall of fame in Mexico and a member of the Pro Wrestling Hall of Fame in\u00a0...",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "claim": "Star Trek: Discovery is a movie.",
+    "claim_chunks": [
+      "Discovery",
+      "a movie"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Star Trek: Discovery: Created by Bryan Fuller, Alex Kurtzman. With Sonequa Martin-Green, Doug Jones, Anthony Rapp, Emily Coutts. Ten years before Kirk,\u00a0...",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "Star Trek: Discovery premiered on September 24, 2017, on CBS and CBS All Access. The rest of the 15-episode first season was released weekly on All Access until\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Star Trek: Discovery's Final Adventure to Premiere Globally on April 4. The ... Poster art for the movie Star Trek 2009 showing James T. Kirk in front of. Star\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 18, 2023 ... Star Trek: Section 31 is finally happening, but not as a series (at least, not yet). Paramount+ has ordered Section 31 as an original movie,\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Aug 2, 2018 ... Now we have Discovery, we know that's not true. But some people still bitch about Discovery because they didn't get the post-DS9 series they\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Discovery (film) ... The Discovery is a 2017 British-American romantic science fiction film, directed by Charlie McDowell from a screenplay by himself and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Discovery: Directed by Charlie McDowell. With Robert Redford, Mary Steenburgen, Brian McCarthy, Jason Segel. Two years after the afterlife is\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 18, 2017 ... Robert Redford, Jason Segel and Rooney Mara star in this sci-fi indie that premiered at the Sundance Film Festival. Videos. The Discovery.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 1, 2017 ... There are no featured reviews for The Discovery because the movie has not released yet (). See Movies in Theaters. Movie & TV guides. View All.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 2, 2017 ... You're born, you live, you die. After life you don't go to another physical plane or even a plane with other beings. You simply are dropped into\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Star Trek : Discovery is an upcoming American television series created by Bryan Fuller and Alex Kurtzman for CBS All Access .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "claim": "Richard LaGravenese directed the film P.S I Love You (film).",
+    "claim_chunks": [
+      "Richard LaGravenese",
+      "the film P.S",
+      "I",
+      "You",
+      "film"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "P.S. I Love You is a 2007 American romantic film directed by Richard LaGravenese from a screenplay by LaGravenese and Steven Rogers based on the 2004 novel\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "P.S. I Love You: Directed by Richard LaGravenese. With Hilary Swank, Gerard Butler, Lisa Kudrow, Gina Gershon. A young widow discovers that her late husband\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Dec 21, 2007 ... Movie Review | 'P.S. I Love You'. P.P.S. Take Tissues to This Weepy About ... Hilary Swank in \"P.S., I Love You,\" directed by Richard LaGravenese.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Dec 21, 2007 ... Please use my links if you can! (Affiliate fees do not increase your cost.) Thank you! P.S. I Love You (2007) directed by Richard LaGravenese",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "The film was far from perfect it had a few scenes that were so overtly contrived it took me out of the moment! And Hilary Swank looked like a fish out of water\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "P.S. I Love You is a 2007 American romantic film directed by Richard LaGravenese from a screenplay by LaGravenese and Steven Rogers\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "P.S. I Love You: Directed by Richard LaGravenese. With Hilary Swank, Gerard Butler, Lisa Kudrow, Gina Gershon.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Dec 21, 2007 ... (Affiliate fees do not increase your cost.) Thank you! P.S. I Love You (2007) directed by Richard LaGravenese. US\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Hilary Swank and Richard LaGravenese in P.S. I Love You (2007) ... 7 Best Movies Like 'Good Grief' To Watch If You Loved the Film. Jan 11\u00a0...",
+        "correlation_label": "2"
+      },
+      {
+        "sentence": "Dec 21, 2007 ... Movie Review | 'P.S. I Love You'. P.P.S. Take ... Hilary Swank in \"P.S., I Love You,\" directed by Richard LaGravenese.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "P.S. I Love You is a 2007 American drama film directed by Richard LaGravenese .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "claim": "Marvel vs. Capcom: Infinite is only a comic.",
+    "claim_chunks": [
+      "Capcom",
+      "Infinite",
+      "only a comic"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Sep 19, 2017 ... Traditionally, the Marvel and Capcom universes have needed only the most perfunctory of excuses to have a fight, but Infinite not only sees\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Capcom: Infinite. Ultron Sigma has begun the eradication of all biological life. Against all odds, heroes stand together against the ultimate threat, their only\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jun 10, 2017 ... -All 6 of the first wave DLC characters will be making an appearance in the story in some form, while the only character the player can actually\u00a0...",
+        "correlation_label": "3"
+      },
+      {
+        "sentence": "Dec 10, 2017 ... Infinity Stones only have special functions during the Battle for the Stones Finals. ... com/rules/, and you agree to be bound by the terms of\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jun 13, 2017 ... ... just want to clear misconceptions about the game and give some clarity. I'm only wishing for the best for Marvel vs Capcom Infinite. First\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Sep 6, 2023 ... Now it is no where near as good as MVC3 but when I play MVCI I still have a great time so why do people dislike it? Upvote",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Apr 27, 2019 ... infinite has a story mode, it's not spectacular but there is a narrative. marvel 3 only has arcade and a mode called Heroes and Heralds\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mar 2, 2018 ... Ha, no. Its just that BazBlue and Smash Bros. both bring something unique to EVO, as well as being Smash being a better-selling franchise, and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 5, 2023 ... so The characters like Wolverine & others etc. that dont appear in infinite game but marvel vs capcom 3 cant use infinite gems in thiere profile\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Marvel vs. Capcom : Infinite is an upcoming fighting video game in development by Capcom .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "It is the sixth main entry in the Marvel vs. Capcom series of crossover games .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The series ' traditional character assists have been removed ; instead , the game incorporates a tag-based combo system , which allows players to form continuous combos between their two characters .",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "In video games , a combo ( short for combination ) is a term that designates a set of actions performed in sequence , usually with strict timing limitations , that yield a significant benefit or advantage .",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "claim": "Meghan Markle is very selfish.",
+    "claim_chunks": [
+      "Meghan Markle"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Mar 13, 2021 ... No, not really. A narcissist would have high standards in everything and epsecially in a ways that they are treated by other people.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 13, 2023 ... An ex-pal of Meghan Markle slammed the royal as \u201cselfish\u201d for bowing out of attending King Charles III's upcoming coronation.",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Aug 9, 2023 ... Prince Harry and Meghan Markle have just come under fire for being 'incredibly selfish' in their antics and behaviors towards the Royal\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Aug 21, 2023 ... She seems very selfish. Maybe she was always like this and I never noticed ... Prince Harry and Meghan Markle Have a New Website \u00b7 Just Another\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "Feb 4, 2023 ... In response to this Mr Wootton said, \u201cYeah right she is! Meghan is actually a person of profound selfishness with a deep concern to seek revenge\u00a0...",
+        "correlation_label": "0"
+      },
+      {
+        "sentence": "This site was established in 2020 and sets out the work streams of Prince Harry and Meghan, The Duke and Duchess of Sussex prior to their move to the United\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Meghan, Duchess of Sussex is an American member of the British royal family and former actress. She is married to Prince Harry, Duke of Sussex,\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Duchess of Sussex, born Rachel Meghan Markle, married Prince Harry at St George's Chapel, Windsor in May 2018. The Duke and Duchess have two children...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Invictus Games Foundation. Follow. hrhofsussex. Meghan Markle & Prince Harry Royal News. Follow. sarahferguson15. Sarah Ferguson (Fergie). Follow. voguemagazine.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Meghan Markle was born on August 4, 1981 and raised in Los Angeles, California, and is of mixed-race heritage. During her studies at Northwestern University,\u00a0...",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "claim": "Daggering is incapable of being a form of dance.",
+    "claim_chunks": [
+      "a form",
+      "dance"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Sep 16, 2022 ... Weighing in as someone who also doesn't dance and wasn't raised around dancing: kind of? ... dance to daggering. Reply reply. Share. blackbradb. \u2022\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Apr 24, 2013 ... \u201ccollages are incapable of ever being whole, or made whole ... depict daggering, a twenty-first century popular black diasporic dance form that.",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jul 7, 2014 ... They can celebrate your happiness with theirs, which might not be of identical form. ... daggering your father on the dance floor while signing\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Mar 2, 2012 ... Always good for saying something outlandish and for daggering ladies on the dance floor. ... Generally relegated to being the straight man to his\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Mar 21, 2019 ... Just as those four plays kind of go together, King Richard II is often associated with King Henry IV, Part I, King Henry IV, Part II, and King\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 24, 2020 ... Ballet \u00b7 Ballroom \u00b7 Contemporary \u00b7 Hip-Hop \u00b7 Jazz \u00b7 Tap Dancing \u00b7 Folk Dance \u00b7 Irish Dance.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dancers and dance scholars, as this paper will show, use this term, and the related terms ethnologic, primitive, and folk dance, differently and, in fact, in a\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jul 9, 2023 ... \"Tribal Fusion Dance is a branch of the American Tribal Style Belly Dance, or \"ATS\" movement. ATS, now known as Fatchance Bellydance, was\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Free Your Movement and Become A Freeformer! Location 217 State Rd E \u200bWestminster, MA 01473",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Choreographic Structures: The specific compositional forms in which movement is structured to create a dance (AB, ABA, ABAB, canon, variation, retrograde, call\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Daggering is a form of dance originating from Jamaica .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "This dance is not a traditional dance .",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "claim": "Bank of America has 4,600 retail financial employees.",
+    "claim_chunks": [
+      "Bank",
+      "America",
+      "4,600 retail financial employees"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Bank of America is one of the world's leading financial institutions ... retail financial centers, approximately 15,000 ATMs (automated teller machines) and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Oct 2, 2017 ... ... bank's 200,000 employees. The firm will also utilize Microsoft Azure ... Bank of America is one of the world's leading financial institutions\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The Consumer Banking organization includes over 4,600 retail financial centers and approximately 15,900 automated teller machines. Bank of America is a\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "We are committed to environmental sustainability. Offering financing for electric cars and other EVs. Learn to buy from a manufacturer or a dealer from our\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "34 results ... Before you leave our site, we want you to know your app store has its ... (202) 624-4600. Close alert message. Financial Center Hours. Drive-Thru\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... retail financial centers, approximately 15,000 ATMs (automated teller machines) and award-winning digital banking with approximately 57 million verified\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Oct 2, 2017 ... ... bank's 200,000 employees. The firm will also utilize Microsoft Azure, capitalizing ... Bank of America as a digital leader in financial services.",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Wachovia provided a broad range of retail banking and brokerage, asset and ... retail brokerage, mortgage lending, and auto finance businesses. Globally\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "34 results ... (202) 624-4600. Close alert message. Financial Center Hours. Drive-Thru ... employees for account opening and service. Available banking products\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The Consumer Banking organization includes over 4,600 retail financial centers and approximately 15,900 automated teller machines. Bank of America is a\u00a0...",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "claim": "Lithuanians are a power group.",
+    "claim_chunks": [
+      "Lithuanians",
+      "a power group"
+    ],
+    "claim_label": "NOT ENOUGH INFO",
+    "evidence": [
+      {
+        "sentence": "May 17, 2014 ... ... Lithuanian athletes (n = 204, stratified into three groups: endurance, sprint/power and mixed) and compare them with the allele/genotype\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "May 17, 2014 ... The empirical power of the ANOVA test for the mean differences of Lithuanian athletes' phenotypic indexes between three different sport groups\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Jul 13, 2021 ... Total Genotype Score Modelling of Polygenic Endurance-Power Profiles in Lithuanian Elite Athletes ... power traits in the group of analysed\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Girls\u201f groups consist of 6-. 8 members within a certain age group. In 2010 18 leaders worked with the girls of Girl Power groups and around 220 girls attended\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 2, 2022 ... Nuclear energy in Lithuania, Lithuanian nuclear energy use. Closure of RBMK at Ignalina from the World Nuclear Association.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Feb 28, 2023 ... Ignitis launches public appeal to more than 50 companies in US and Europe to follow suit.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Dec 14, 2023 ... Ignitis Group is a renewables-focused integrated utility and leading energy company in the Baltics. Both the EIB and NIB have provided loans for\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 17, 2014 ... AMPD1 rs17602729 is associated with physical performance of sprint and power in elite Lithuanian athletes ... group. There were significantly\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Aug 18, 2022 ... Lithuania has one major electricity (and gas) DSO, ESO, fully owned by the Baltic utility Ignitis Group, besides four smaller DSOs, and five\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 17, 2014 ... ... Lithuanian athletes group. We chose the AMPD1 C34T polymorphism due to ... The sprint/power group (n = 47) included sprinters and other power\u00a0...",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "claim": "Color of Night won something.",
+    "claim_chunks": [
+      "Color",
+      "Night",
+      "something"
+    ],
+    "claim_label": "SUPPORTS",
+    "evidence": [
+      {
+        "sentence": "Mar 13, 2015 ... wassup, thought i'd keep y'all posted with somethin new i just did today while i'm workin on my projects. instrumental called \"thought u wuz\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Aug 31, 2017 ... I think night skies are actually much more blue than this, but it looks fine. Interesting post above about the \u201cnatural color\u201d of night\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mar 15, 2023 ... ... color where I can barely see it. Doesn't matter that I change it to black, once I select done, it changes to something almost invisible.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mar 10, 2021 ... If I use the regular mouse to move something, the colours blink ... Last night, with the help of posts I found by @Anssi, and after updating\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "The series won ... In Living Color alums Damon Wayans, Jim Carrey, and David Alan Grier reprised some of their In Living Color characters on Saturday Night Live:.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Nov 26, 2023 ... Is that the only way to set it up or am I missing something else? I thought the camera would automatically determine when it was night time and\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 7, 2021 ... The issue is that when I first set this up last week, everything was working fine - color night video and I have not changed anything, then all\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 27, 2020 ... First I would try parking your silver car nearest the camera. It might reflect enough of your porch light to prevent the doorbell going in to\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Feb 5, 2024 ... ... something about a filter or something. Here are some night pictures from it - pretty bad quality, bleached out over exposed face and purple\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jul 7, 2023 ... People can really bring their treats in any type of container they want\u2026 a board, box, basket. Most found something that matched their color or\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Color of Night flopped at the box office and won a Golden Raspberry Award as the worst film of 1994 .",
+        "correlation_label": "0"
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "claim": "One Dance was Drake's first number one single in 1998.",
+    "claim_chunks": [
+      "One Dance",
+      "Drake's first number"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "Oct 16, 2023 ... He becomes the first act to reach at least 300 total chart hits. \u201cFirst Person Shooter,\u201d featuring J. Cole, debuts at No. 1 on the Hot 100. It\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... One Dance\" becoming Drake's first number-one single in Canada and the US as a leading artist. The single also became Drake's first number one single as a\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "May 9, 2016 ... Drake reigns with his smash from his album 'Views,' the new No. 1 title on the Billboard 200. Plus, Fifth Harmony hits the top five & new Hot\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jul 22, 2022 ... In a sense, any song that ever got any one person moving in any perceptible direction is a dance song. The Beatles made great dance songs\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "\"1999\" is a song by American musician Prince, the title track from his 1982 album of the same name. Originally peaking at number 44 on the Billboard Hot 100\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 9, 2016 ... \u201cDance,\u201d released on Young Money/Cash Money/Republic Records, becomes Drake's first Hot 100 No. 1 in a lead role, following two toppers as a\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "On the week of May 7, 2016, Drake received his first number-one as the lead artist in his native Canada, having previously peaked at the top in collaboration\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "May 9, 2016 ... This week (and perhaps next), Drake is number one on both the singles and the albums chart, as both \u201cOne Dance\u201d and Views are currently in\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "Jun 13, 2016 ... Drake tops the Billboard Hot 100 (dated June 25) for a fifth nonconsecutive week with \"One Dance,\" featuring WizKid and Kyla. By Gary Trust\u00a0...",
+        "correlation_label": "7"
+      },
+      {
+        "sentence": "Apr 25, 2017 ... When all 10 tracks inside the highest tier on the IFPI's tally combine the number of units they shifted, the total comes to 98.3 million.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "`` One Dance '' was released for digital download on April 5 , 2016 and was serviced to US urban , rhythmic , and contemporary hit radio on April 12 , 2016 .",
+        "correlation_label": "1"
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "claim": "George III of the United Kingdom experienced the defeat of France early on in his reign and continued pursuing military goals in his career.",
+    "claim_chunks": [
+      "George III",
+      "the United Kingdom",
+      "the defeat",
+      "France",
+      "his reign",
+      "military goals",
+      "his career"
+    ],
+    "claim_label": "NOT ENOUGH INFO",
+    "evidence": [
+      {
+        "sentence": "Then, in 1755, the British frontier strategy changed. The army in America was reorganized to undertake three major campaigns. Washington and his First Virginia\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Congress learns of the capture of Fort Ticonderoga and that military reinforcements from Britain are on their way to North America. May 25, 1775. British\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "With his knowledge of the surrounding rivers and ocean, Washington was able to work with the French Navy to defeat the British, allowing for the victory at\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Discover! The American Colonies. British and French colonies, with their Indian allies, challenged each other for dominance of North America on the eve of the\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "A More Perfect Union: The Creation of the U.S. Constitution Enlarge General George Washington He was unanimously elected president of the Philadelphia\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Nov 9, 2009 ... During his 59-year reign, he pushed through a British ... The king was reluctant to come to terms with his army's defeat in the Battle of Yorktown\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "As King of Great Britain during the American Revolution, George III has become to many Americans a byword for tyranny and the arrogance of the old European.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "From the outset of the Seven Years' War, British commanders were forced to adjust their military strategy to combat the French. Having superior land forces at\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "... of the British Army and describes his frustrations ... March 13, the French minister in London informs King George III that France recognizes the United States.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "George III was king of Great Britain and Ireland from 1760 to 1811. The third monarch from the House of Hanover, George was just twenty-two years old when\u00a0...",
+        "correlation_label": "6"
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "claim": "Port of Spain is a village.",
+    "claim_chunks": [
+      "Port",
+      "Spain",
+      "a village"
+    ],
+    "claim_label": "REFUTES",
+    "evidence": [
+      {
+        "sentence": "ONLINE REGISTRATION FORM https://docs.google. com/forms/d/e/1FAIpQLSc8YAyndr1NsSWI9SbROU WMAHkg0PfGBn. \udb85\ude76. \u0645\u062a\u0627\u0628\u0639\u0629. \udb81\udfdd. \u0627\u0644\u0645\u0646\u0634\u0648\u0631\u0627\u062a.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "7 March 2018. Port-of-Spain City Hall, Trinidad and Tobago. Page 2. 2. Mr Hillan Moreen, Deputy Mayor of Port of Spain,. Ms. Aasha Permanand, Alderman of\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "Europa Village offers you the charm and character of Europe, transporting you to the old-world vineyards and villages of Spain, France, and Italy.",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Aug 2, 2022 ... Port de S\u00f3ller is a village and the port of the town of S\u00f3ller, in Mallorca, Spain. Along with the village of Fornalutx and the hamlet of\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Port Lligat in Spain with a tree in the foreground. Port Lligat is a village located on the Costa Brava at northeastern Catalonia in Spain. Salvador Dali\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Mar 7, 2018 ... Port of Spain City Village showcases women entrepreneurs ... The theme of this year's IWD is the `Time is now: Rural and urban activists\u00a0...",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "It includes the towns of Barataria, San Juan, St. Joseph, Curepe, St. Augustine, Tunapuna, Tacarigua, Arouca, and Five Rivers, once distinct communities and now\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Nov 7, 2017 ... Bermeo is a colourful seafaring village that was once famous for its whaling industry. Today, it's perfect for some pintxos at the marina known\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Jan 23, 2023 ... From a hilltop village on Mallorca to a port town wedged between a boat-dotted bay and rugged mountain peaks, here are 13 small towns in\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Apr 19, 2014 ... Port d'es Torrent, Spain. Show Prices. INNSiDE by Melia Ibiza Beach. 1,237 reviews. Port d'es Torrent, Spain. Show\u00a0...",
+        "correlation_label": "6"
+      },
+      {
+        "sentence": "Port of Spain is the capital city of the Republic of Trinidad and Tobago and the country 's third-largest municipality , after Chaguanas and San Fernando .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The city has a municipal population of 37,074 ( 2011 census ) , a metropolitan population of 128,026 ( 1990 unofficial estimate ) and a transient daily population of 250,000 .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The city serves primarily as a retail and administrative centre and it has been the capital of the island since 1757 .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The city is also home to the largest container port on the island and is one of several shipping hubs of the Caribbean , exporting both agricultural products and manufactured goods .",
+        "correlation_label": "1"
+      },
+      {
+        "sentence": "The pre-lenten Carnival is the city 's main annual cultural festival and tourist attraction .",
+        "correlation_label": "1"
+      }
+    ]
+  }
+]
